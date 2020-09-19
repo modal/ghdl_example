@@ -1,0 +1,9 @@
+
+#File Types Ignore
+*.ghw
+*.vcd
+*.cf
+
+#Temp File Ignores
+*.swp
+\#*\#
